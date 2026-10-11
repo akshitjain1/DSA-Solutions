@@ -14,7 +14,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Pascal's Triangle
 - [ ] Next Permutation
 - [ ] Maximum Subarray
-- [x] [Sort Colors](./C++/Medium/75. Sort Colors/)
+- [x] [Sort Colors](./Java/Medium/75. Sort Colors/)
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Rotate Image
 - [ ] Merge Intervals
